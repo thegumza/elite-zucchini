@@ -6,18 +6,13 @@
     "logo_img": "images/logo.png",
     "has_nav": true,
     "menu": {
-      "actions": [
-        {
-          "label": "Sign Up",
-          "url": "/signup"
-        }
-      ]
+      "actions": []
     }
   },
   "footer": {
     "subscribe_title": "Subscribe",
     "subscribe_content": "Stay up to date with our latest developments.",
-    "has_subscribe": true,
+    "has_subscribe": false,
     "social_title": "Community",
     "tagline": "SaaS theme by Stackbit",
     "logo_img": "images/logo_alt.png",
@@ -25,12 +20,12 @@
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Wiwat Fongkan",
+        "url": "https://www.facebook.com/thegumza",
         "new_window": true
       }
     ],
     "nav_title": "Company",
-    "has_nav": true
+    "has_nav": false
   }
 }
