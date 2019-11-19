@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "Wiwat Mobile App",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/logo.png",
     "has_nav": true,
     "menu": {
       "actions": []
@@ -14,8 +14,8 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": false,
     "social_title": "Community",
-    "tagline": "SaaS theme by Stackbit",
-    "logo_img": "images/logo_alt.png",
+    "tagline": "Wiwat Mobile App",
+    "logo_img": "/images/logo.png",
     "has_social": true,
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
