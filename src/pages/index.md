@@ -47,7 +47,7 @@ sections:
         url: /signup
     section_id: call-to-action
     subtitle: ปรึกษาฟรี ไม่มีค่าใช่จ่าย!
-    title: ติดต่อเพื่อขอคำแนะนำหรือปรึกษา Project
+    title: ติดต่อขอคำแนะนำ
     type: section_cta
 menus:
   main:
