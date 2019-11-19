@@ -15,32 +15,27 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Learn More
+          - label: ผลงานของเรา
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          พัฒนาแอปพลิเคชั่น บน App Store และ Google Playstore
+          ตามความต้องการของลูกค้า
         image: images/feature1.png
-        title: The Best Feature of Your Services
-      - actions:
-          - label: Learn More
-            url: /features
+        title: พัฒนาแอปพลิเคชั่นทั้งบน App Store และหน่วยงานภายใน
+      - actions: []
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          หากคุณมีระบบเก่า สามารถทำการย้าย จาก Offline Services มาไว้บน Cloud
+          platform เพื่อสร้าง Online Services ตอบสนองความต้องการใหม่ๆ ของลูกค้า
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: เชื่อมต่อเข้ากับระบบที่คุณมีอยู่แล้ว
       - actions:
-          - label: Learn More
+          - label: เรียนรู้เพิ่มเติม
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          ปรึกษาการทำโปรเจ็คของคุณฟรี
+          เพื่อตอบโจทย์ลูกค้าของคุณให้ได้มากที่สุดและเร็วที่สุด
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: ปรึกษาฟรี
     section_id: Mobile Application
     subtitle: >-
       Mobile Application ไม่ว่าจะเป็น Android iOS รวมถึงการเชื่อมต่อ API ต่างๆ
@@ -48,11 +43,11 @@ sections:
     title: Mobile Application
     type: section_features
   - actions:
-      - label: Get Started
+      - label: คลิ๊ก
         url: /signup
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: ปรึกษาฟรี ไม่มีค่าใช่จ่าย!
+    title: ติดต่อเพื่อขอคำแนะนำหรือปรึกษา Project
     type: section_cta
 menus:
   main:
