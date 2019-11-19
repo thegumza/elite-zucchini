@@ -19,9 +19,9 @@ sections:
             url: /features
         content: >-
           พัฒนาแอปพลิเคชั่น บน App Store และ Google Playstore
-          ตามความต้องการของลูกค้า
+          และแอปสำหรับหน่วยงานภายในตามความต้องการของลูกค้า
         image: images/feature1.png
-        title: พัฒนาแอปพลิเคชั่นทั้งบน App Store และหน่วยงานภายใน
+        title: พัฒนาแอปขึ้น Play Store และแอปหน่วยงานภายใน
       - actions: []
         content: >-
           หากคุณมีระบบเก่า สามารถทำการย้าย จาก Offline Services มาไว้บน Cloud
