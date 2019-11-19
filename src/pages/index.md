@@ -5,8 +5,9 @@ sections:
       - label: Learn More
         url: /features
     content: >-
-      ออกแบบ UX / UI และพัฒนา ApplicationAndroid / iOS รวมถึงการจัดการข้อมูล
-      Database Firebase และอื่นๆ ที่เกี่ยวข้องกับ Application
+      ออกแบบ UX / UI และพัฒนา ApplicationAndroid / iOS
+      รวมถึงการจัดการข้อมูลฐานข้อมูลต่างๆ การแจ้งเตือน Notification และอื่นๆ
+      ที่เกี่ยวข้องกับ Application
     image: images/hero.png
     section_id: hero
     title: Wiwat Mobile App
