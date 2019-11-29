@@ -20,13 +20,13 @@ sections:
         content: >-
           พัฒนาแอปพลิเคชั่น บน App Store และ Google Playstore
           และแอปสำหรับหน่วยงานภายในตามความต้องการของลูกค้า
-        image: images/feature1.png
+        image: /images/landing3.png
         title: พัฒนาแอปขึ้น Play Store และแอปหน่วยงานภายใน
       - actions: []
         content: >-
           หากคุณมีระบบเก่า สามารถทำการย้าย จาก Offline Services มาไว้บน Cloud
           platform เพื่อสร้าง Online Services ตอบสนองความต้องการใหม่ๆ ของลูกค้า
-        image: images/feature2.png
+        image: /images/landing2.png
         title: เชื่อมต่อเข้ากับระบบที่คุณมีอยู่แล้ว
       - actions:
           - label: เรียนรู้เพิ่มเติม
@@ -34,7 +34,7 @@ sections:
         content: >-
           ปรึกษาการทำโปรเจ็คของคุณฟรี
           เพื่อตอบโจทย์ลูกค้าของคุณให้ได้มากที่สุดและเร็วที่สุด
-        image: images/feature3.png
+        image: /images/landing.png
         title: ปรึกษาฟรี
     section_id: Mobile Application
     subtitle: >-
