@@ -8,7 +8,7 @@ sections:
       ออกแบบ UX / UI และพัฒนา ApplicationAndroid / iOS
       รวมถึงการจัดการข้อมูลฐานข้อมูลต่างๆ การแจ้งเตือน Notification และอื่นๆ
       ที่เกี่ยวข้องกับ Application
-    image: /images/tekmockup.png
+    image: /images/landing.png
     section_id: hero
     title: Wiwat Mobile App
     type: section_hero
